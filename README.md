@@ -75,7 +75,7 @@ Some insights discovered in the analysis:
 
 This dashboard shows key metrics and data visualizations generated from the dataset.
 
-![Dashboard](images/dashboard.png)
+![Dashboard](Dashboard.png)
 
 ---
 
